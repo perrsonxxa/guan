@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://192.168.1.73:8080/epg/epg.gz"
+#EXTM3U x-tvg-url="https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.xml,https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/h"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/main/tv/
 /CCTV-1.png" group-title="🕘️正在更新中，刷新获取最新结果",2026-03-12 12:07:35
 http://110.241.188.75:808/hls/1/index.m3u8
@@ -521,3 +521,4 @@ http://110.241.188.75:808/hls/50/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV-15" tvg-logo="https://gh-proxy.org/raw.githubusercontent.com/fanmingming/live/main/tv/
 /CCTV-15.png" group-title="🎵音乐频道",CCTV-15
 http://110.241.188.75:808/hls/15/index.m3u8
+
