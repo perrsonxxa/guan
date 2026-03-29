@@ -1,11 +1,10 @@
-#EXTM3U x-tvg-url="http://192.168.1.73:8080/epg/epg.gz"
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml,https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.xml,https://gh-proxy.org/raw.githubusercontent.com/perrsonxxa/iptv-api/refs/heads/master/output/epg/epg.gz,https://epg.pw/xmltv/epg.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-29 10:38:53
 http://60.0.84.130:9999/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://60.0.84.130:9999/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
-http://http://60.3.123.68:7000/rtp/239.253.92.83:8012
-/rtp/239.253.92.83:8012
+http://60.3.123.68:7000/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://61.138.82.196:808/hls/1/index.m3u8$订阅源
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
